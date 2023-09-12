@@ -1,0 +1,10 @@
+CC = {compiler}
+CLINK	= {compiler}
+C_LIB  = {linked_libs}
+C_INC = -I../common {additional_macros}
+CFLAGS	= {c_flags}
+CLINKFLAGS = {link_flags}
+UCC	= {compiler}
+BINDIR	= ../../build/{suit_name}
+RAND   = randdp
+WTIME  = wtime.c
