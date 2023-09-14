@@ -1,0 +1,8 @@
+{
+  "template_name":{
+    "class": "A",
+    "compiler": "gcc",
+    "compiler_options": "-O3",
+    "utility_compiler": "gcc"
+  },
+}
